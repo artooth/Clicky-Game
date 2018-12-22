@@ -29,55 +29,41 @@
   },
   {
     "id": 5,
-    "name": "Courage",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
-  },
-  {
-    "id": 6,
-    "name": "Doug Funnie",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "occupation": "Student",
-    "location": "Bluffington"
-  },
-  {
-    "id": 7,
     "name": "Stan",
     "image": "https://banner2.kisspng.com/20180405/ske/kisspng-stan-smith-roger-steve-smith-united-states-televis-will-smith-5ac5eae5a86c24.7067636915229201656899.jpg",
     "occupation": "",
     "location": ""
   },
   {
-    "id": 8,
+    "id": 6,
     "name": "Klaus",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/An_image_of_Klaus_Heissler_in_a_water_bowl.png/220px-An_image_of_Klaus_Heissler_in_a_water_bowl.png",
     "occupation": "",
     "location": ""
   },
   {
-    "id": 9,
+    "id": 7,
     "name": "Stan",
     "image": "https://assets.playtech.com/application/files/5315/0530/8205/American_dad_Character_2.png?version=1532081054",
     "occupation": "",
     "location": ""
   },
   {
-    "id": 10,
+    "id": 8,
     "name": "Haley",
     "image": "http://www.american-dad-streaming.com/images/5.png",
     "occupation": "",
     "location": ""
   },
   {
-    "id": 11,
+    "id": 9,
     "name": "Steve",
     "image": "https://vignette.wikia.nocookie.net/doblaje/images/b/bc/Steve_Smith.png/revision/latest?cb=20131104022004&path-prefix=es",
     "occupation": "",
     "location": ""
   },
   {
-    "id": 12,
+    "id": 10,
     "name": "Francine",
     "image": "https://upload.wikimedia.org/wikipedia/en/d/da/Francine_Smith.png",
     "occupation": "",
